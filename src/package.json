@@ -1,0 +1,2 @@
+"test": echo\"error: no test specified\"&& exit 1",
+"build": "babel src -d lib"
